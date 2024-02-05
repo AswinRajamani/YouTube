@@ -12,7 +12,7 @@ Installation
 
 Usage
 
-Contributing
+Contribution
 
 Introduction
 
@@ -32,7 +32,7 @@ Usage
 
 Open the youtube.html file in a web browser to view the YouTube-like structure. Feel free to customize and modify the HTML and CSS files according to your needs. Experiment with different styles, colors, and layouts to enhance the design.
 
-Contributing
+Contribution
 
 If you would like to contribute to the project, follow these steps:
 
